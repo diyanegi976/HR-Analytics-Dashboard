@@ -33,7 +33,7 @@ This dashboard provides HR teams and decision-makers with a clear view of workfo
 ![High School](High_school.png)
 
 ### Master's Degree
-![Master's_Degree](Master_s_degree.png)
+![Master's_Degree](Master's_degree.png)
 
 ## Repository Contents
 
