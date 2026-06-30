@@ -24,7 +24,7 @@ This dashboard provides HR teams and decision-makers with a clear view of workfo
 ![Associate's Degree](Associate's_degree.png)
 
 ### Bachelor's Degree
-![Bachelor's Degree](Bachelor_s_degree.png)
+![Bachelor's Degree](Bachelor's_degree.png)
 
 ### Doctoral Degree
 ![Doctoral Degree](Doctoral_degree.png)
