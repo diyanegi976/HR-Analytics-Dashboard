@@ -76,7 +76,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 **DIYA NEGI**  
 📧 mailto://diyanegi875@gmail.com 
-🔗 [LinkedIn](https://www.linkedin.com/in/diya-negi) | [GitHub](https://github.com/diyanegi976)
+🔗 [LinkedIn](https://www.linkedin.com/in/diya-negi-4a0a4a347) | [GitHub](https://github.com/diyanegi976)
 
 Feel free to open an issue or reach out if you have questions or suggestions!
 
